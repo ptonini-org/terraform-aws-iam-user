@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"policy","Source":"app.terraform.io/linxsa/iam-policy/aws","Version":"1.0.2","Dir":".terraform/modules/policy"}]}
